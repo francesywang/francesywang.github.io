@@ -1,0 +1,59 @@
+locale: "en-US"
+title: "Frances Yaping Wang"
+title_separator: "|"
+name: "Frances Yaping Wang"
+description: "Political scientist studying media, international conflicts, authoritarian public opinion, and China's foreign relations."
+url: "https://francesywang.github.io"
+baseurl: ""
+repository: "francesywang/francesywang.github.io"
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"
+
+masthead_title: "Frances Yaping Wang"
+
+# Sidebar profile, following the Academic Pages / Minimal Mistakes layout.
+author:
+  avatar: "https://static.wixstatic.com/media/a1a7cc_11efd9a9869b4928a7fe6f96a458effc~mv2.jpg/v1/fill/w_276,h_338,al_c,q_80,usm_0.66_1.00_0.01/IMG_8389_JPG.jpg"
+  name: "Frances Yaping Wang"
+  bio: "Political scientist studying media, international conflicts, authoritarian public opinion and China's foreign relations."
+  employer: "Colgate University"
+  links:
+    - label: "CV"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "https://www.yapingwang.com/_files/ugd/a1a7cc_e6b13dc6eba64c418d1e67a2dda461c1.pdf"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=79VI9IkAAAAJ&hl=en"
+    - label: "Book"
+      icon: "fas fa-fw fa-book"
+      url: "https://www.amazon.com/Art-State-Persuasion-Strategic-Interstate/dp/0197757510"
+
+include:
+  - _pages
+
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:title/
+timezone: America/New_York
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+sass:
+  style: compressed
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+atom_feed:
+  hide: true
+footer:
+  links: []

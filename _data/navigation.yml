@@ -1,0 +1,13 @@
+main:
+  - title: "About Me"
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Book"
+    url: /book/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Media"
+    url: /media/
+  - title: "Data"
+    url: /data/
