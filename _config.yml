@@ -27,6 +27,9 @@ author:
     - label: "Book"
       icon: "fas fa-fw fa-book"
       url: "https://www.amazon.com/Art-State-Persuasion-Strategic-Interstate/dp/0197757510"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:fywang@colgate.edu"
 
 include:
   - _pages
