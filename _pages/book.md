@@ -4,10 +4,6 @@ title: "The Art of State Persuasion"
 author_profile: true
 ---
 
-<div class="book-page-cover">
-  <img src="/assets/images/book-cover-frances-wang.jpg" alt="Cover of The Art of State Persuasion by Frances Yaping Wang">
-</div>
-
 ### *The Art of State Persuasion: China’s Strategic Use of Media in Interstate Disputes*
 
 Oxford University Press, 2024
