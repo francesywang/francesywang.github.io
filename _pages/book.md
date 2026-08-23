@@ -12,7 +12,7 @@ author_profile: true
 
 Oxford University Press, 2024
 
-[Order the book on Amazon](https://www.amazon.com/Art-State-Persuasion-Strategic-Interstate/dp/0197757510) or [Oxford University Press](https://academic.oup.com/book/58045)
+[Order the book on Amazon](https://www.amazon.com/Art-State-Persuasion-Strategic-Interstate/dp/0197757510) or [Oxford University Press](https://global.oup.com/academic/product/the-art-of-state-persuasion-9780197757512)
 
 ## Awards
 
@@ -43,13 +43,13 @@ Drawing on medium-N and case study analyses alongside textual analysis of Chines
 
 ## Reviews
 
-- [Political Science Quarterly](https://academic.oup.com/psq/article-abstract/140/4/819/8275987)
-- [Choice](https://www.proquest.com/)
+- [Political Science Quarterly](https://doi.org/10.1093/psquar/qqaf105)
+- [Choice](https://www.proquest.com/docview/3109082620)
 - H-Diplo Robert Jervis International Security Studies Forum (RJISSF) roundtable (forthcoming)
 
 ## Talks
 
-Academia Sinica, Taiwan (7/29/2025); Australia National University (5/22/2025); [Columbia University (4/28/2025)](https://cwp.sipa.columbia.edu/events/art-state-persuasion-chinas-strategic-use-media-interstate-disputes-featuring-author-dr); [Colgate University (4/2/2025)](https://thecolgatemaroonnews.com/60537/news/professor-frances-wang-addresses-art-of-state-manipulation-in-new-book/); [George Washington University (3/28/2025)](https://mailchi.mp/gwu/the-art-of-state-persuasion); [Oxford University (2/11/2025)](https://www.ccsp.ox.ac.uk/event/the-art-of-state-persuasion-chinas-strategic-use-of-media-in-interstate-dispute); [SOAS University of London (2/10/2025)](https://www.soas.ac.uk/about/event/art-state-persuasion-chinas-strategic-use-media-interstate-disputes); Stanford University (1/10/2025)
+Academia Sinica, Taiwan (7/29/2025); Australia National University (5/22/2025); [Columbia University (4/28/2025)](https://cwp.sipa.columbia.edu/events/art-state-persuasion-chinas-strategic-use-media-interstate-disputes-featuring-author-dr) [[Video](https://www.youtube.com/watch?v=LubC0fPK0vU)]; [Colgate University (4/2/2025)](https://thecolgatemaroonnews.com/60537/news/professor-frances-wang-addresses-art-of-state-manipulation-in-new-book/); [George Washington University (3/28/2025)](https://mailchi.mp/gwu/the-art-of-state-persuasion-chinas-strategic-use-of-media-in-interstate-disputes); [Oxford University (2/11/2025)](https://www.ccsp.ox.ac.uk/event/the-art-of-state-persuasion-chinas-strategic-use-of-media-in-interstate-dispute); [SOAS University of London (2/10/2025)](https://www.soas.ac.uk/about/event/art-state-persuasion-chinas-strategic-use-media-interstate-disputes); Stanford University (1/10/2025)
 
 ## Interviews
 
