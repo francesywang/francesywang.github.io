@@ -4,7 +4,7 @@ title: "The Art of State Persuasion"
 author_profile: true
 ---
 
-### *The Art of State Persuasion: China’s Strategic Use of Media in Interstate Disputes*
+### *China’s Strategic Use of Media in Interstate Disputes*
 
 Oxford University Press, 2024
 
