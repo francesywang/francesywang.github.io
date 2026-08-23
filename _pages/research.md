@@ -1,32 +1,66 @@
 ---
 permalink: /research/
-title: "Research"
+title: "Papers"
 author_profile: true
 ---
 
-## Peer-Reviewed Articles
+## Peer-Reviewed Journal Articles
 
-**“Authoritarian Propaganda Campaigns on Foreign Affairs: Four Birds, One Stone?”**  
-with Andrew Chubb. *International Studies Quarterly* (2023).
+**"Authoritarian Propaganda Campaigns on Foreign Affairs: Four Birds with One Stone"**  
+with Andrew Chubb. *International Studies Quarterly*, Volume 67, Issue 3, September 2023.  
+<a href="https://academic.oup.com/isq/article/67/3/sqad047/7221446" target="_blank" rel="noopener noreferrer">Post-Print</a> · <a href="https://ssrn.com/abstract=4261021" target="_blank" rel="noopener noreferrer">Pre-Print (SSRN)</a>
 
-**“Barking Without Biting: Understanding Chinese Media Campaigns During Foreign Policy Disputes.”**  
-*Security Studies* (2021).
+Why do authoritarian states sometimes play up international crises and diplomatic incidents in domestic propaganda, and sometimes use information controls to minimize public attention to such events? Scholars of authoritarian regimes have offered an array of theories to explain authoritarian public opinion management decisions, and empirically validated each in particular cases. China specialists have applied and enriched this literature with case studies of the propaganda behavior of the most powerful and technologically sophisticated contemporary authoritarian state. However, such works have often mistakenly framed theories that are logically compatible, or even mutually reinforcing, as alternative explanations. This paper demonstrates the logical and empirical compatibility of many supposedly competing theories of authoritarian propaganda practices. It distinguishes four sets of explanations for authoritarian states to run domestic propaganda campaigns on foreign policy issues: mobilization, signaling, diversion, and pacification. Next, it identifies their simultaneous operation within a single case, the PRC’s propaganda campaign over the 2016 Sino-Philippines arbitration case.
 
-**“Jawing through Crises: Chinese and Vietnamese Media Strategies in the South China Sea.”**  
-with Brantly Womack. *Journal of Contemporary China* (2019).
+**"Barking Without Biting: Understanding Chinese Media Campaigns During Foreign Policy Disputes"**  
+*Security Studies* 2021, 30:4, 517-549.  
+<a href="https://doi.org/10.1080/09636412.2021.1979843" target="_blank" rel="noopener noreferrer">DOI</a> · <a href="https://www.tandfonline.com/doi/full/10.1080/09636412.2021.1979843" target="_blank" rel="noopener noreferrer">Post-Print</a> · <a href="https://ssrn.com/abstract=3891655" target="_blank" rel="noopener noreferrer">Pre-Print (SSRN)</a>
+
+What motivates Chinese media campaigns during foreign policy disputes and how are they carried out? “Influence campaigns” are often recognized as highly pertinent to international security, yet they remain understudied. This paper develops and tests a theory that explains these media campaigns as strategic actions to align domestic public opinion when it deviates from the state’s preferred foreign policy, exploiting the media’s mobilization or pacification effect. These divergent media effects correspond to two types of media campaigns respectively - the mobilization campaigns and the pacification campaigns. The pacification campaigns are particularly important because they indicate that hawkish rhetoric may counterintuitively pacify the public, and hence its adoption implies a moderate foreign policy intent. A medium-n congruence test of 21 Chinese diplomatic crises and process-tracing of the 2016 Sino-Philippines arbitration case offer strong support for the theory and demonstrate how a pacification campaign works and how it differs from a mobilization campaign.
+
+**"Jawing through Crises: Chinese and Vietnamese Media Strategies in the South China Sea"**  
+with Brantly Womack. *Journal of Contemporary China* 2019, 28:119, 712-728.  
+<a href="https://doi.org/10.1080/10670564.2019.1580429" target="_blank" rel="noopener noreferrer">DOI</a> · <a href="https://ssrn.com/abstract=3891759" target="_blank" rel="noopener noreferrer">Pre-Print (SSRN)</a>
+
+Winston Churchill once said, ‘it is better to jaw-jaw than to war-war.’ However, negotiations are particularly difficult when they are enmeshed in public opinion precommitments. The sharpest crisis between China and Vietnam in the last 30 years concerned the placement of a Chinese oil rig into contested waters in 2014. This study analyses the Chinese and Vietnamese propaganda efforts surrounding the crisis as examples of the instrumental use of propaganda in managing domestic public opinion on diplomatic crises. The article argues that despite very different approaches to public diplomacy during the crisis, both states were primarily concerned with avoiding escalation and ending the confrontation. The authors show how propaganda function as a pacifying device in dealing with rising domestic nationalism when executing a moderate foreign policy.
+
+## Book Reviews
+
+**H-Diplo Article Review of Kosal Path. "The Politics of China's Aid to North Vietnam during the Anti-American Resistance, 1965-1969," *Diplomacy & Statecraft*, 27:4 (2016): 682-700.**  
+<a href="https://networks.h-net.org/system/files/contributed-files/ar737.pdf" target="_blank" rel="noopener noreferrer">Link</a>
 
 ## Working Papers
 
-**“Scripts of Escalation and Restraint: State Messaging and Public Opinion in International Crises.”**
+**"Scripts of Escalation and Restraint: State Messaging and Public Opinion in International Crises"**
 
-**“Escalation from Below, De-escalation from Above: A Dual-Process Theory of Low-Intensity Conflict Behavior.”**  
+Public opinion can both enable and constrain foreign policy, motivating governments to manipulate media to manage domestic sentiment during international crises. This study proposes a typology of four communication strategies - one mobilizing and three moderating - that operate through emotional, informational, normative, and performative cues. Using a large-scale survey experiment in China, Vietnam, and the Philippines, it evaluates how these tactics shape foreign-policy preferences and tolerance for government actions in a simulated South China Sea dispute. Delegitimization consistently dampens hawkish attitudes and increases tolerance across all contexts, while censorship produces similar but more context-dependent effects, functioning most effectively in controlled information environments. Mobilization hardens opinion and reduces acceptance of policy deviation, whereas posturing has little impact and can even backfire in pluralistic media systems. Overall, the findings show that propaganda is not uniformly mobilizing but strategically adaptive - mobilizing when escalation is sought and moderating when restraint is politically advantageous.
+
+**"Escalation from Below, De-escalation from Above: A Dual-Process Theory of Low-Intensity Conflict Behavior"**  
 with Chen Wang.
 
-**“Truth or Trust? The Effects of Nationalism on Disinformation Perception of Chinese Netizens.”**  
+International relations scholarship has long emphasized the causes of war, but we lack systematic accounts of the everyday low-level provocations that constitute most hostile interstate interactions. We develop a dual-process model in which low-level conflict behaviors arise from the interaction of central authorities’ discretion and frontline agencies’ routines rather than from a unitary state. Drawing on original weekly data on Chinese maritime patrols near the Diaoyu/Senkaku Islands between 2013 and 2024, we find that the central authorities - sensitive to diplomatic and political costs - curb high-consequence incursions into territorial waters, while local agencies - driven by operational mandates - sustain lower-consequence patrols in the contiguous zone. High-consequence incursions decline during summit diplomacy involving direct central-level engagement, while lower-consequence patrols rise during routine, frontline-managed events such as fishing bans. Supplementary evidence from provincial tax revenues and a 2016 episode of abrupt restraint further illustrate how local financial incentives and top political intervention shape conflict behaviors. Our findings show how state actors calibrate mundane provocations, advancing theories of conflict short of war.
+
+**"Truth or Trust? The Effects of Nationalism on Disinformation Perception of Chinese Netizens"**  
 with Zeying Wu.
 
-**“Borrowing the Boat: The Effectiveness of China’s Outsourced Propaganda.”**  
+This study investigates whether nationalism increases susceptibility to disinformation, refining the prevailing assumption that greater knowledge inherently improves detection by introducing a conditional factor - nationalism. While prior research links media literacy and factual awareness to resilience against misinformation, we argue that the effect of knowledge is mediated by national identity. Drawing on focus groups and survey experiments in mainland China - an authoritarian context where state propaganda is pervasive - we examine how nationalism shapes perceptions of official disinformation targeting foreign countries. Using Japan’s discharge of treated nuclear wastewater into the Pacific Ocean as a case study, we explore how historical memory and national identity affect Chinese netizens’ interpretations of government reports. Our findings suggest that knowledge alone cannot explain variation in disinformation perception; rather, emotional and identity-based factors play a decisive role. By situating disinformation within relational, social, and political contexts, this study advances both theoretical and empirical understanding of how authoritarian publics interpret official disinformation.
+
+**"Borrowing the Boat: The Effectiveness of China’s Outsourced Propaganda"**  
 with Jay C. Kao.
 
-**“Racial Stereotypes toward Chinese and Foreign Policy Preference toward China.”**  
+Beijing has intensified its global information operations, increasingly using local intermediaries - “propaganda by proxy” - to deliver pro-China narratives. A notable example is China Daily’s 2018 advertising insert in the Des Moines Register during the U.S.-China trade war. This study evaluates the comparative effectiveness of proxy dissemination relative to direct state-run foreign media and examines how two delivery features - content type and attribution disclosure - condition persuasive impact. We argue that proxy messaging is more persuasive because it leverages domestic outlets’ perceived impartiality, credibility, and cultural fluency, allowing political cues to be woven subtly into routine media consumption. By contrast, explicit disclosure of Chinese state sponsorship should dampen persuasion, and the proxy advantage should be larger when messages are embedded in soft news than in hard political coverage. We test these expectations with a survey experiment that systematically varies channel (proxy vs. direct), content (soft vs. hard), and disclosure (present vs. absent). The results will clarify when and how proxy propaganda persuades, informing debates on foreign influence and democratic information resilience.
+
+**"Racial Stereotypes toward Chinese and Foreign Policy Preference toward China"**  
 with Boliang Zhu.
+
+Do Americans’ racial stereotypes toward Chinese affect their foreign policy preference toward China? Further, do foreign policy preferences toward China affect their attitudes and behavior toward ethnic Chinese? With the deterioration of US-China relations and the rising violence against Chinese around the world, these are realistically urgent and important questions. We study the relationship between racial attitudes and foreign policy preference related to Chinese and China through two survey experiments in the US. We hypothesize that there is a circular relationship between the two, that is, racial attitudes do affect one’s foreign policy preference, and foreign policy preference further affects one’s racial attitudes, causing a mutually reinforcing pattern.
+
+**"Curated Defiance: Moralized Authoritarianism and the Politics of People-First Legitimacy"**  
+with Greg Chih-Hsin Sheen.
+
+Why do authoritarian regimes tolerate - and often promote - mass-market films that glorify defiant heroes? Contemporary China features wildly popular stories of righteous rebellion - Ne Zha defying the celestial order, Sun Wukong rebelling against Heaven, Mulan transgressing patriarchal authority, or the Shuihu Zhuan bandits rising against corrupt officials. The puzzle is not merely their endurance but their political permissibility under a regime known for stringent ideological control. We argue that rulers cultivate curated defiance: narratives in which protagonists defeat illegitimate authorities only to restore a higher collective order. This strategy draws on a people-first moral logic (大义) that distinguishes righteous resistance from system-threatening dissent. By allowing heroes to confront corrupt, premodern, foreign, or local rogue authorities - while pivoting back to order restoration - the state can co-claim the hero’s victory and reinforce its own moralized legitimacy. Using an original dataset of Chinese blockbusters (2005-2025), coded for target type, narrative “loyalty pivot,” and ending frames, paired with state-media paratexts and distribution outcomes, we show that “defiant-hero” films are most likely to be approved and amplified when they attack non-contemporary authorities and conclude with moral restoration - especially during governance and anti-corruption campaigns. A small cross-national probe suggests similar patterns in other people-first authoritarian settings. The project advances theories of authoritarian legitimation by demonstrating how regimes transform rebellious affect into moral consent. Rather than suppressing defiance, moralized authoritarianism ritualizes it, extending explanations of authoritarian resilience beyond performance and repression to the realm of narrative rule.
+
+**"Shared Regimes or Common Enemies? Ingroup Dynamics Among Authoritarian States"**  
+with Jiyoung Ko.
+
+This research investigates the dynamics of ingroup perceptions among autocracies, focusing on whether these perceptions stem from shared authoritarian regime types or emerge in response to a common adversary, such as the United States. Using a survey experiment conducted in China, with a potential cross-country extension to Russia for enhanced external validity, the study examines how Chinese citizens perceive a coalition comprising China, Russia, Iran, and North Korea. The findings will contribute to understanding how citizens in authoritarian regimes conceptualize alliances and whether these perceptions align with or diverge from the geopolitical narratives presented by their governments.
