@@ -4,7 +4,7 @@ title: "The Art of State Persuasion"
 author_profile: true
 ---
 
-### *China’s Strategic Use of Media in Interstate Disputes*
+### China’s Strategic Use of Media in Interstate Disputes
 
 Oxford University Press, 2024
 
@@ -45,7 +45,7 @@ Drawing on medium-N and case study analyses alongside textual analysis of Chines
 
 ## Talks
 
-Academia Sinica, Taiwan (7/29/2025); Australia National University (5/22/2025); <a href="https://cwp.sipa.columbia.edu/events/art-state-persuasion-chinas-strategic-use-media-interstate-disputes-featuring-author-dr" target="_blank" rel="noopener noreferrer">Columbia University (4/28/2025)</a> [<a href="https://www.youtube.com/watch?v=LubC0fPK0vU" target="_blank" rel="noopener noreferrer">Video</a>]; <a href="https://thecolgatemaroonnews.com/60537/news/professor-frances-wang-addresses-art-of-state-manipulation-in-new-book/" target="_blank" rel="noopener noreferrer">Colgate University (4/2/2025)</a>; <a href="https://mailchi.mp/gwu/the-art-of-state-persuasion-chinas-strategic-use-of-media-in-interstate-disputes" target="_blank" rel="noopener noreferrer">George Washington University (3/28/2025)</a>; <a href="https://www.ccsp.ox.ac.uk/event/the-art-of-state-persuasion-chinas-strategic-use-of-media-in-interstate-dispute" target="_blank" rel="noopener noreferrer">Oxford University (2/11/2025)</a>; <a href="https://www.soas.ac.uk/about/event/art-state-persuasion-chinas-strategic-use-media-interstate-disputes" target="_blank" rel="noopener noreferrer">SOAS University of London (2/10/2025)</a>; Stanford University (1/10/2025)
+Academia Sinica, Taiwan (7/29/2025); Australia National University (5/22/2025); <a href="https://cwp.sipa.columbia.edu/events/art-state-persuasion-chinas-strategic-use-media-interstate-disputes-featuring-author-dr" target="_blank" rel="noopener noreferrer">Columbia University (4/28/2025)</a> [<a href="https://www.youtube.com/watch?v=LubC0fPK0vU" target="_blank" rel="noopener noreferrer">Video</a>]; <a href="https://thecolgatemaroonnews.com/60537/news/professor-frances-wang-addresses-art-of-state-manipulation-in-new-book/" target="_blank" rel="noopener noreferrer">Colgate University (4/2/2025)</a>; <a href="https://mailchi.mp/gwu/the-art-of-state-persuasion-chinas-strategic-use-media-in-interstate-disputes" target="_blank" rel="noopener noreferrer">George Washington University (3/28/2025)</a>; <a href="https://www.ccsp.ox.ac.uk/event/the-art-of-state-persuasion-chinas-strategic-use-media-in-interstate-dispute" target="_blank" rel="noopener noreferrer">Oxford University (2/11/2025)</a>; <a href="https://www.soas.ac.uk/about/event/art-state-persuasion-chinas-strategic-use-media-interstate-disputes" target="_blank" rel="noopener noreferrer">SOAS University of London (2/10/2025)</a>; Stanford University (1/10/2025)
 
 ## Interviews
 
