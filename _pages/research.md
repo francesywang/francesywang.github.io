@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: "Papers"
+title: ""
 author_profile: true
 ---
 
@@ -16,7 +16,7 @@ with Andrew Chubb. *International Studies Quarterly*, Volume 67, Issue 3, Septem
 
 **"Jawing through Crises: Chinese and Vietnamese Media Strategies in the South China Sea"**  
 with Brantly Womack. *Journal of Contemporary China* 2019, 28:119, 712-728.  
-<a href="https://ssrn.com/abstract=3891759" target="_blank" rel="noopener noreferrer">Pre-Print (SSRN)</a>
+<a href="https://www.tandfonline.com/doi/full/10.1080/10670564.2019.1580429" target="_blank" rel="noopener noreferrer">Post-Print</a> · <a href="https://ssrn.com/abstract=3891759" target="_blank" rel="noopener noreferrer">Pre-Print (SSRN)</a>
 
 ## Book Reviews
 
