@@ -5,14 +5,14 @@ author_profile: true
 ---
 
 <div class="book-page-cover">
-  <img src="/assets/images/book-cover.jpg" alt="Cover of The Art of State Persuasion by Frances Yaping Wang">
+  <img src="https://raw.githubusercontent.com/francesywang/francesywang.github.io/main/assets/images/book-cover.jpg" alt="Cover of The Art of State Persuasion by Frances Yaping Wang">
 </div>
 
 ### *The Art of State Persuasion: China’s Strategic Use of Media in Interstate Disputes*
 
 Oxford University Press, 2024
 
-[Order the book on Amazon](https://www.amazon.com/Art-State-Persuasion-Strategic-Interstate/dp/0197757510) or [Oxford University Press](https://global.oup.com/academic/product/the-art-of-state-persuasion-9780197757512)
+<a href="https://www.amazon.com/Art-State-Persuasion-Strategic-Interstate/dp/0197757510" target="_blank" rel="noopener noreferrer">Order the book on Amazon</a> or <a href="https://global.oup.com/academic/product/the-art-of-state-persuasion-9780197757512" target="_blank" rel="noopener noreferrer">Oxford University Press</a>
 
 ## Awards
 
@@ -43,14 +43,14 @@ Drawing on medium-N and case study analyses alongside textual analysis of Chines
 
 ## Reviews
 
-- [Political Science Quarterly](https://doi.org/10.1093/psquar/qqaf105)
-- [Choice](https://www.proquest.com/docview/3109082620)
+- <a href="https://doi.org/10.1093/psquar/qqaf105" target="_blank" rel="noopener noreferrer">Political Science Quarterly</a>
+- <a href="https://www.proquest.com/docview/3109082620" target="_blank" rel="noopener noreferrer">Choice</a>
 - H-Diplo Robert Jervis International Security Studies Forum (RJISSF) roundtable (forthcoming)
 
 ## Talks
 
-Academia Sinica, Taiwan (7/29/2025); Australia National University (5/22/2025); [Columbia University (4/28/2025)](https://cwp.sipa.columbia.edu/events/art-state-persuasion-chinas-strategic-use-media-interstate-disputes-featuring-author-dr) [[Video](https://www.youtube.com/watch?v=LubC0fPK0vU)]; [Colgate University (4/2/2025)](https://thecolgatemaroonnews.com/60537/news/professor-frances-wang-addresses-art-of-state-manipulation-in-new-book/); [George Washington University (3/28/2025)](https://mailchi.mp/gwu/the-art-of-state-persuasion-chinas-strategic-use-of-media-in-interstate-disputes); [Oxford University (2/11/2025)](https://www.ccsp.ox.ac.uk/event/the-art-of-state-persuasion-chinas-strategic-use-of-media-in-interstate-dispute); [SOAS University of London (2/10/2025)](https://www.soas.ac.uk/about/event/art-state-persuasion-chinas-strategic-use-media-interstate-disputes); Stanford University (1/10/2025)
+Academia Sinica, Taiwan (7/29/2025); Australia National University (5/22/2025); <a href="https://cwp.sipa.columbia.edu/events/art-state-persuasion-chinas-strategic-use-media-interstate-disputes-featuring-author-dr" target="_blank" rel="noopener noreferrer">Columbia University (4/28/2025)</a> [<a href="https://www.youtube.com/watch?v=LubC0fPK0vU" target="_blank" rel="noopener noreferrer">Video</a>]; <a href="https://thecolgatemaroonnews.com/60537/news/professor-frances-wang-addresses-art-of-state-manipulation-in-new-book/" target="_blank" rel="noopener noreferrer">Colgate University (4/2/2025)</a>; <a href="https://mailchi.mp/gwu/the-art-of-state-persuasion-chinas-strategic-use-of-media-in-interstate-disputes" target="_blank" rel="noopener noreferrer">George Washington University (3/28/2025)</a>; <a href="https://www.ccsp.ox.ac.uk/event/the-art-of-state-persuasion-chinas-strategic-use-of-media-in-interstate-dispute" target="_blank" rel="noopener noreferrer">Oxford University (2/11/2025)</a>; <a href="https://www.soas.ac.uk/about/event/art-state-persuasion-chinas-strategic-use-media-interstate-disputes" target="_blank" rel="noopener noreferrer">SOAS University of London (2/10/2025)</a>; Stanford University (1/10/2025)
 
 ## Interviews
 
-U.S.-China Perception Monitor ([Eng](https://uscnpm.org/2025/07/08/throttling-the-nationalist-spirit-frances-yaping-wang/), [中文](https://zmyx.info/interview-with-frances-yaping-wang-on-chinas-media-strategy/)); [New Books Network](https://newbooksnetwork.com/the-art-of-state-persuasion); [New Books in Chinese Studies on Apple Podcasts](https://podcasts.apple.com/us/podcast/frances-yaping-wang-the-art-of-state-persuasion/id1534346807?i=1000702665771); [Campaign for the American Reader “The Page 99 Test”](https://page99test.blogspot.com/2024/09/frances-yaping-wangs-art-of-state.html)
+U.S.-China Perception Monitor (<a href="https://uscnpm.org/2025/07/08/throttling-the-nationalist-spirit-frances-yaping-wang/" target="_blank" rel="noopener noreferrer">Eng</a>, <a href="https://zmyx.info/interview-with-frances-yaping-wang-on-chinas-media-strategy/" target="_blank" rel="noopener noreferrer">中文</a>); <a href="https://newbooksnetwork.com/the-art-of-state-persuasion" target="_blank" rel="noopener noreferrer">New Books Network</a>; <a href="https://podcasts.apple.com/us/podcast/frances-yaping-wang-the-art-of-state-persuasion/id1534346807?i=1000702665771" target="_blank" rel="noopener noreferrer">New Books in Chinese Studies on Apple Podcasts</a>; <a href="https://page99test.blogspot.com/2024/09/frances-yaping-wangs-art-of-state.html" target="_blank" rel="noopener noreferrer">Campaign for the American Reader “The Page 99 Test”</a>
