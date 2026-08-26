@@ -23,6 +23,16 @@ body { color: #333; line-height: 1.62; }
 .page__content .header-link,
 .page__content .heading-anchor,
 .page__content .anchorjs-link { display: none !important; }
+
+/* Minimal Mistakes fades the entire sidebar to 75% until hover on desktop. */
+.sidebar,
+.sidebar:hover,
+.sidebar:focus-within {
+  opacity: 1 !important;
+  -webkit-transition: none !important;
+  transition: none !important;
+}
+
 .author__avatar,
 .author__avatar a,
 .author__avatar img,
