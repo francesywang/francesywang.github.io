@@ -6,6 +6,9 @@ author_profile: true
 
 ## Peer-Reviewed Journal Articles
 
+**"Scripts of Escalation and Restraint: State Messaging and Public Opinion in International Crises"**  
+Forthcoming at *International Journal of Press/Politics*.
+
 **"Authoritarian Propaganda Campaigns on Foreign Affairs: Four Birds with One Stone"**  
 with Andrew Chubb. *International Studies Quarterly*, Volume 67, Issue 3, September 2023.  
 <a href="https://academic.oup.com/isq/article/67/3/sqad047/7221446" target="_blank" rel="noopener noreferrer">Post-Print</a> · <a href="https://ssrn.com/abstract=4261021" target="_blank" rel="noopener noreferrer">Pre-Print (SSRN)</a>
@@ -24,10 +27,6 @@ with Brantly Womack. *Journal of Contemporary China* 2019, 28:119, 712-728.
 <a href="https://networks.h-net.org/system/files/contributed-files/ar737.pdf" target="_blank" rel="noopener noreferrer">Link</a>
 
 ## Working Papers
-
-**"Scripts of Escalation and Restraint: State Messaging and Public Opinion in International Crises"**
-
-This project examines how governments use mobilizing and moderating messages to shape public opinion during international crises. Survey experiments in China, Vietnam, and the Philippines show that different propaganda cues can harden or soften foreign-policy preferences.
 
 **"Escalation from Below, De-escalation from Above: A Dual-Process Theory of Low-Intensity Conflict Behavior"**  
 with Chen Wang.
