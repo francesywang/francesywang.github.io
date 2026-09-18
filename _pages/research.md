@@ -7,7 +7,8 @@ author_profile: true
 ## Peer-Reviewed Journal Articles
 
 **"Scripts of Escalation and Restraint: State Messaging and Public Opinion in International Crises"**  
-Forthcoming at *International Journal of Press/Politics*.
+Forthcoming at *International Journal of Press/Politics*.  
+<a href="https://ssrn.com/abstract=7471901" target="_blank" rel="noopener noreferrer">Pre-Print (SSRN)</a>
 
 **"Authoritarian Propaganda Campaigns on Foreign Affairs: Four Birds with One Stone"**  
 with Andrew Chubb. *International Studies Quarterly*, Volume 67, Issue 3, September 2023.  
