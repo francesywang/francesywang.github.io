@@ -39,9 +39,9 @@ Drawing on medium-N and case study analyses alongside textual analysis of Chines
 
 ## Reviews
 
-- <a href="https://doi.org/10.1093/psquar/qqaf105" target="_blank" rel="noopener noreferrer">Political Science Quarterly</a>
-- <a href="https://www.proquest.com/docview/3109082620" target="_blank" rel="noopener noreferrer">Choice</a>
-- H-Diplo Robert Jervis International Security Studies Forum (RJISSF) roundtable (forthcoming)
+- <a href="https://doi.org/10.1093/psquar/qqaf105" target="_blank" rel="noopener noreferrer"><em>Political Science Quarterly</em></a>
+- <a href="https://doi.org/10.1017/S0305741025101173" target="_blank" rel="noopener noreferrer"><em>China Quarterly</em></a>
+- <a href="https://issforum.org/roundtables/roundtable-18-14-on-wang-the-art-of-state-persuasion" target="_blank" rel="noopener noreferrer">H-Diplo/Robert Jervis International Security Studies Forum (RJISSF) Roundtable (2026)</a> — Reviews by Giulia Sciorati, Xiaoxiao Shen, and Dechun Zhang, with an author response.
 
 ## Talks
 
