@@ -18,7 +18,7 @@ author_profile: true
 
 ## Media
 
-- Interview on China’s propaganda strategy toward Japan, *Toyo Keizai Online*, November 4, 2026 (in Japanese). <a href="https://toyokeizai.net/articles/-/963161?display=b" target="_blank" rel="noopener noreferrer">Link</a>
+- Interview on China’s media strategy toward Japan on Taiwan, *Toyo Keizai Online*, November 4, 2026 (in Japanese). <a href="https://toyokeizai.net/articles/-/963161?display=b" target="_blank" rel="noopener noreferrer">Link</a>
 
 - Interview on my book: <a href="https://podcasts.apple.com/us/podcast/frances-yaping-wang-the-art-of-state-persuasion/id477719156?i=1000702361809" target="_blank" rel="noopener noreferrer">New Books Network Podcast</a>
 
