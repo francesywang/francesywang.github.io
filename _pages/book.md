@@ -15,7 +15,7 @@ Oxford University Press, 2024
 - International Studies Association (ISA) Asia Pacific Best Book Award
 - Honorable Mention, ISA International Security Studies Section (ISSS) Best Book Award
 
-## Praise
+## Endorsements
 
 > “This terrific book examines when, why, and how China engages in propaganda campaigns amid international crises. Through detailed empirical analysis and clever theorizing, Wang shows that China can launch such campaigns not just to mobilize public support for an assertive policy but also to pacify hardline public sentiment for a moderate approach. A timely and significant contribution to the literature on Chinese foreign policy.”
 >
