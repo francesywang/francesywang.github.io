@@ -15,14 +15,6 @@ Oxford University Press, 2024
 - International Studies Association (ISA) Asia Pacific Best Book Award
 - Honorable Mention, ISA International Security Studies Section (ISSS) Best Book Award
 
-## Overview
-
-Why do nations actively publicize previously overlooked disputes, and why does domestic mobilization sometimes fail to lead to aggressive policy? *The Art of State Persuasion* explores China’s strategic use of state propaganda during crises, revealing why certain disputes are amplified while others are downplayed. This variation depends on the alignment, or lack thereof, between Chinese state policy and public opinion.
-
-When public sentiment is more moderate than the government’s foreign policy objectives, a mobilization campaign is initiated. Conversely, when public opinion is more hawkish, a pacification campaign is deployed to mollify public sentiment.
-
-Drawing on medium-N and case study analyses alongside textual analysis of Chinese state media, archival sources, and elite interviews, the book demonstrates how propaganda campaigns can signal and shape foreign policy intentions. It highlights how the Chinese government manages shifting public sentiment through distinct discursive strategies, challenging the conventional view of Chinese propaganda as uniformly aggressive.
-
 ## Endorsements
 
 > “This terrific book examines when, why, and how China engages in propaganda campaigns amid international crises. Through detailed empirical analysis and clever theorizing, Wang shows that China can launch such campaigns not just to mobilize public support for an assertive policy but also to pacify hardline public sentiment for a moderate approach. A timely and significant contribution to the literature on Chinese foreign policy.”
