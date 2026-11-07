@@ -7,7 +7,7 @@ author_profile: true
 ## Peer-Reviewed Journal Articles
 
 **"Scripts of Escalation and Restraint: State Messaging and Public Opinion in International Crises"**  
-*The International Journal of Press/Politics*, 2026.  
+*The International Journal of Press/Politics*, November 2026.  
 <a href="https://journals.sagepub.com/doi/10.1177/19401612261495103" target="_blank" rel="noopener noreferrer">Post-Print</a> · <a href="https://ssrn.com/abstract=7471901" target="_blank" rel="noopener noreferrer">Pre-Print (SSRN)</a>
 
 **"Authoritarian Propaganda Campaigns on Foreign Affairs: Four Birds with One Stone"**  
