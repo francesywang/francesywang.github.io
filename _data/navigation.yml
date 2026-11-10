@@ -3,7 +3,7 @@ main:
     url: /
   - title: "Book"
     url: /book/
-  - title: "Papers"
+  - title: "Articles"
     url: /research/
   - title: "Teaching"
     url: /teaching/
